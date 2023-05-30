@@ -114,15 +114,10 @@ Execute the program
 '''
 
 # OUPUT
-
-![out](https://github.com/VijayShankar10/timetable/assets/121999019/6e61624c-1cae-45f6-a006-7586fa7e93a7)
-
+[out (1).pdf](https://github.com/VijayShankar10/timetable/files/11601633/out.1.pdf)
 
 # HTML VALIDATION
-
-![valid](https://github.com/VijayShankar10/timetable/assets/121999019/4d9870a3-d24a-44a1-91c7-1e8936a92452)
-
-  
+[valid.pdf](https://github.com/VijayShankar10/timetable/files/11601626/valid.pdf)
 
 # RESULT
 The program for creating timetable is completed successfully
