@@ -115,11 +115,14 @@ Execute the program
 
 # OUPUT
 
-![OUTPUT](http://vijayshankar.student.saveetha.in:8000/static/images/out.png?raw=true)
+![out](https://github.com/VijayShankar10/timetable/assets/121999019/6e61624c-1cae-45f6-a006-7586fa7e93a7)
+
 
 # HTML VALIDATION
 
-![HTML VALIDATION](http://vijayshankar.student.saveetha.in:8000/static/images/valid.png?raw=true)   
+![valid](https://github.com/VijayShankar10/timetable/assets/121999019/4d9870a3-d24a-44a1-91c7-1e8936a92452)
+
+  
 
 # RESULT
 The program for creating timetable is completed successfully
