@@ -17,7 +17,7 @@ Add your timetable
 Execute the program
 
 # CODE
-```html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -111,9 +111,8 @@ Execute the program
 </table>
 </body>
 </html>
-'''
-
-# OUPUT
+```
+# OUtPUT
 ![out](https://github.com/VijayShankar10/timetable/assets/121999019/fde27285-3ff9-4df1-9a7f-f49ed8459d66)
 
 
